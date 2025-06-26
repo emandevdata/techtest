@@ -1,9 +1,0 @@
-# Terraform files
-*.tfstate
-*.tfstate.backup
-.terraform/
-crash.log
-
-# Build output
-build/
-*.zip
